@@ -534,4 +534,40 @@
   <data name="DestroyTransformDiagnosticTitle" xml:space="preserve">
     <value>Calling Destroy or DestroyImmediate on a Transform</value>
   </data>
+  <data name="UnityObjectImplicitBoolDiagnosticDescription" xml:space="preserve">
+    <value>Use null comparison instead of implicit bool operator.</value>
+  </data>
+  <data name="UnityObjectImplicitBoolDiagnosticMessageFormat" xml:space="preserve">
+    <value>Use null comparison instead of implicit bool operator.</value>
+  </data>
+  <data name="UnityObjectImplicitBoolDiagnosticTitle" xml:space="preserve">
+    <value>Use null comparison instead of implicit bool operator.</value>
+  </data>
+  <data name="UnityObjectImplicitBoolCodeFixTitle" xml:space="preserve">
+    <value>Use null comparison</value>
+  </data>
+  <data name="UnityObjectImplicitBoolCodeFixTitle" xml:space="preserve">
+    <value>TODO: Add code fix title</value>
+  </data>
+  <data name="UnityObjectImplicitBoolDiagnosticDescription" xml:space="preserve">
+    <value>TODO: Add description.</value>
+  </data>
+  <data name="UnityObjectImplicitBoolDiagnosticMessageFormat" xml:space="preserve">
+    <value>TODO: Add Message format</value>
+  </data>
+  <data name="UnityObjectImplicitBoolDiagnosticTitle" xml:space="preserve">
+    <value>TODO: Add title</value>
+  </data>
+  <data name="UnityObjectImplicitBoolaCodeFixTitle" xml:space="preserve">
+    <value>TODO: Add code fix title</value>
+  </data>
+  <data name="UnityObjectImplicitBoolaDiagnosticDescription" xml:space="preserve">
+    <value>TODO: Add description.</value>
+  </data>
+  <data name="UnityObjectImplicitBoolaDiagnosticMessageFormat" xml:space="preserve">
+    <value>TODO: Add Message format</value>
+  </data>
+  <data name="UnityObjectImplicitBoolaDiagnosticTitle" xml:space="preserve">
+    <value>TODO: Add title</value>
+  </data>
 </root>
